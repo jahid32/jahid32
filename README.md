@@ -1,6 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/jahid32/jahid32/image/icons/Hi I Am.gif" /></h1>
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jahid32.jahid32)](https://github.com/jahid32)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafizur32)
-[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/@Mostafizur913)
+[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=black)](https://x.com/@Mostafizur913)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jahid32@gmail.com)
 
 **Full-Stack Developer** passionate about building elegant solutions to complex problems. 💡
